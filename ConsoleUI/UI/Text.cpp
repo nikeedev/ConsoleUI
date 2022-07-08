@@ -1,9 +1,9 @@
 #include <iostream>
 #include <stdlib.h>
-#include "Button.h"
+#include "Text.h"
 
 
-void Button(const char* Text, ButtonPosition position) {
+void Button(const char* Text, TextPosition position) {
 	int n = position;
 
 	char* result;

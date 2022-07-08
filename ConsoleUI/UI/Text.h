@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-enum ButtonPosition
+enum TextPosition
 {
 	Left = 1,
 	Right = 2,
@@ -10,6 +10,6 @@ enum ButtonPosition
 };
 
 
-void Button(const char* Text, ButtonPosition position);
+void Button(const char* Text, TextPosition position);
 
 

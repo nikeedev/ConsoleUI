@@ -3,7 +3,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include "ConsoleUI.h"
-#include "UI/Button.h"
+#include "UI/Text.h"
 
 
 namespace ConsoleUI {
